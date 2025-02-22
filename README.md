@@ -74,7 +74,7 @@ Ensure you have the following installed:
 | GET    | `/api/applications`    | Get all job applications      |
 
 
-## 👨‍💻 Contributors
+## 👨‍💻 Contributor
 - [@vaishnavijha](https://github.com/vaishnavigithub899)
 
 ## 💬 Feedback
